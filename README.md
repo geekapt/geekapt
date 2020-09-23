@@ -16,7 +16,7 @@
 <p align="center">
   <h3> I'm a Self-taught Cybersecurity Enthusiast</h3>
 </p>
-- 🔭 I’m currently working on Malaware Analysis
-- 🌱 I’m currently learning CyberSecurity
-- 👯 I’m looking to collaborate on building tools for cybersecurity
-- 💬 Ask me about Penetration Testing and CTF related topics
+<p>- 🔭 I’m currently working on Malaware Analysis </p>
+<p>- 🌱 I’m currently learning CyberSecurity </p>
+<p>- 👯 I’m looking to collaborate on building tools for cybersecurity</p>
+<p>- 💬 Ask me about Penetration Testing and CTF related topics</p>
