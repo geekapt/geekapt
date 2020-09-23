@@ -5,6 +5,10 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
+<p align='center'>
+   <a href="https://www.linkedin.com/in/umesh-bhuyan/"><img height="30" src="LI-In-Bug.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+
 - 🔭 I’m currently working on Malaware Analysis
 - 🌱 I’m currently learning CyberSecurity
 - 👯 I’m looking to collaborate on 
