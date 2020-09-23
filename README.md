@@ -26,14 +26,11 @@
 </div>
 </br>
 
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=2x02&&show_icons=true&theme=radical"/>
-  </a>
+<div align="center" >
    <p align="center">
 <a href="https://github.com/2x02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2x02&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2x02&theme=dracula&layout=compact" />
 </a>
 </p>
-</p>
+</div>
