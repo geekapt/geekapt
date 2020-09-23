@@ -20,11 +20,11 @@
 <p>- 🌱 I’m currently learning CyberSecurity </p>
 <p>- 👯 I’m looking to collaborate on building tools for cybersecurity</p>
 <p>- 💬 Ask me about Penetration Testing and CTF related topics</p>
-
-<p align="center">
+</br>
+   <p align="center">
   <h4>Penetration Testing | Reverse Engineering | System Admin | System Design | Web Designing </h4>
 </p>
-</br></br>
+</br>
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
