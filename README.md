@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="https://2x02.github.io/">Umesh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+   <h3>Connect with me</h3> 
 </div>
 
 <p align='center'>
@@ -23,4 +23,13 @@
 
 <p align="center">
   <h4>Penetration Testing | Reverse Engineering | System Admin | System Design | Web Designing </h4>
-   </p>
+</p>
+</br></br>
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=8bithemant&&show_icons=true&theme=radical"/>
+  </a>
+   <a href="https://github.com/piyushsuthar/github-readme-quotes">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
+   </a>
+</p>
