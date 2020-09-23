@@ -8,7 +8,7 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/umesh-bhuyan/"><img height="30" src="LI-In-Bug.png"></a>&nbsp;&nbsp;
    <a href="https://www.hackthebox.eu/profile/197388"><img height="30" src="https://github.com/2x02/2x02/blob/master/HTB.png"></a>&nbsp;&nbsp;
-   <a href="https://www.hackthebox.eu/profile/197388"><img height="30" src="https://github.com/2x02/2x02/blob/master/HTB.png"></a>&nbsp;&nbsp;
+   <a href="https://tryhackme.com/p/superhuman"><img height="30" src="https://github.com/2x02/2x02/blob/master/THMlogo.png"></a>&nbsp;&nbsp;
 
 - 🔭 I’m currently working on Malaware Analysis
 - 🌱 I’m currently learning CyberSecurity
