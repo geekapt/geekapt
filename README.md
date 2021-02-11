@@ -22,7 +22,7 @@
 <p>- 💬 Ask me about Penetration Testing and CTF related topics</p>
 </br>
    <div align="center">
-  <h4>Penetration Testing | Reverse Engineering | System Admin | System Design | Web Designing </h4>
+  <h4>Penetration Testing | Reverse Engineering | System Admin | Web Designing </h4>
 </div>
 </br>
 
