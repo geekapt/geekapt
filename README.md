@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://2x02.github.io/">Umesh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://geekapt.github.io/">Umesh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
    <h3>Connect with me</h3> 
@@ -7,8 +7,8 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/umesh-bhuyan/"><img height="30" src="LI-In-Bug.png" ></a>&nbsp;&nbsp;
-   <a href="https://www.hackthebox.eu/profile/197388"><img height="30" src="https://github.com/2x02/2x02/blob/master/HTB.png"></a>&nbsp;&nbsp;
-   <a href="https://tryhackme.com/p/superhuman"><img height="30" src="https://github.com/2x02/2x02/blob/master/THMlogo.png"></a>&nbsp;&nbsp;
+   <a href="https://www.hackthebox.eu/profile/197388"><img height="30" src="https://github.com/geekapt/geekapt/blob/master/HTB.png"></a>&nbsp;&nbsp;
+   <a href="https://tryhackme.com/p/superhuman"><img height="30" src="https://github.com/geekapt/geekapt/blob/master/THMlogo.png"></a>&nbsp;&nbsp;
 </p>
 <p align="center">
 <br />
